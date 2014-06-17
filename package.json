@@ -1,0 +1,14 @@
+{
+  "name": "testwebgl",
+  "main": "./lib/testwebgl",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Displays some webgl in the background when there are no editors open.",
+  "repository": "https://github.com/atom/testwebgl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.73.0"
+  },
+  "dependencies": {
+  }
+}
